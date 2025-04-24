@@ -11,13 +11,6 @@
 
 <!--<img align="top" alt="Coding" width="400" src="https://i.pinimg.com/736x/9d/d9/da/9dd9da00bcfc688487712b9a623a4319.jpg">-->
 
-<!-- credits: https://github.com/anuraghazra/github-readme-stats -->
-![Hak3em's GitHub stats](https://github-readme-stats.vercel.app/api?username=hak3em&show_icons=true&theme=radical)
-
-<!-- credits: https://github.com/ryo-ma/github-profile-trophy?tab=readme-ov-file -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=hak3em&rank=A&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- c lang -->
