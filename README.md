@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on something that might break 😄
-- 🌱 I’m currently learning everything tech
+- 🌱 Learning everything tech
 - 💬 Ask me about anything
 - 📫 How to reach me: hakeemlyaziz@gmail.com
 
@@ -124,17 +124,6 @@
   <a href="" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-
-
-  <!-- photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
       alt="photoshop"
       width="40"
       height="40"
